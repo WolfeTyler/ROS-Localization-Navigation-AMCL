@@ -1,0 +1,8 @@
+prefix=/home/workspace/catkin_ws/devel
+
+Name: udacity_bot
+Description: Description of udacity_bot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/workspace/catkin_ws/devel/lib 
+Requires: 
