@@ -3,7 +3,11 @@ Robotic simulation project using ROS (Robot Operating System), Gazebo, RViz simu
 
 <p align="center"> <img src="./images/Gazebo_mobileBot_LaserCamera.png"> </p>
 
+ClearPath Robotics Jackal Course to Test Localization and Navigation
+
 <p align="center"> <img src="./images/gazebo_course.png"> </p>
+
+Custom Mobile Robot Successfully Reaches Navigation Goal
 
 <p align="center"> <img src="./images/customBot_reachedgoalRviz.png"> </p>
 
