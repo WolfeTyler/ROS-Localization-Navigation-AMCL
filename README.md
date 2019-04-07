@@ -17,7 +17,7 @@ And then run the following in *separate* terminals -
 $ roslaunch udacity_bot udacity_bot
 $ roslaunch udacity_bot amcl
 $ rosrun udacity_bot navigation goal
-
+```
 
 <p align="center"> <img src="./images/Gazebo_mobileBot_LaserCamera.png"> </p>
 
