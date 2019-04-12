@@ -44,3 +44,7 @@ I posted a successful navigation from origin to goal on youtube here:
 
 [![IMAGE ALT TEXT HERE](https://github.com/WolfeTyler/ROS-Localization-Navigation-AMCL/blob/master/images/YouTube-ROS-AMCL.png)](https://www.youtube.com/watch?v=0Nag4b2GV2o)
 
+## Future Work
+
+While the amcl-powered localization is efficient, there is opportunity to improve the robot's navigation and movement toward the goal position as demonstrated by frequent observations during test runs of inefficient path planning, frequent delays, and wide circling maneuvers when correcting for movement errors during the approach. With that said, the current setup of multiple robot models with their supporting costmap parameters are able to predictably reach the goal position as supplied in the navigation goal executable.
+
