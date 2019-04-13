@@ -24,8 +24,7 @@ $ roslaunch udacity_bot amcl
 $ rosrun udacity_bot navigation goal
 ```
 
-
-http://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Model%20with%20URDF%20from%20Scratch
+[ROS Guide to Building/Customizing your Robot Model](http://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Model%20with%20URDF%20from%20Scratch)
 
 Mobile Robot in Gazebo World with Environment Obstacles
 
@@ -47,4 +46,7 @@ I posted a successful navigation from origin to goal on youtube here:
 ## Future Work
 
 While the amcl-powered localization is efficient, there is opportunity to improve the robot's navigation and movement toward the goal position as demonstrated by frequent observations during test runs of inefficient path planning, frequent delays, and wide circling maneuvers when correcting for movement errors during the approach. With that said, the current setup of multiple robot models with their supporting costmap parameters are able to predictably reach the goal position as supplied in the navigation goal executable.
+
+Helpful resource for better understanding AMCL [here](
+http://roboticsknowledgebase.com/wiki/state-estimation/adaptive-monte-carlo-localization/)
 
